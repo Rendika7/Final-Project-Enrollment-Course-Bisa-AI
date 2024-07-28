@@ -24,6 +24,3 @@ Saat ini, repositori ini ditujukan untuk dokumentasi pribadi dari pembelajaran s
 ## Lisensi
 
 Repositori ini dilisensikan di bawah [Nama Lisensi]. Lihat berkas `LICENSE` untuk informasi lebih lanjut.
-```
-
-Pastikan untuk menyesuaikan bagian proyek dan latihan dengan informasi spesifik mengenai apa yang Anda kerjakan selama program. Jika Anda memiliki proyek atau modul tambahan, tambahkan deskripsi yang sesuai. Jika ada ketentuan lisensi atau detail lain yang ingin Anda masukkan, pastikan untuk menyertakannya juga.
